@@ -1,5 +1,15 @@
 # README
 
+# Overview
+## This github repo contains code from the Comprehesive Lipidomic Analysis Workflow (CLAW), developed in the Chopra Laboratory at Purdue University. This workflow was used to investage the role of Pla2g2f in dentate gyrus homeostasis, neuronal health, and cognitive resilience. Pla2g2f was virally ablated in dentate granule cells (DGC), and the entire region was dissected and processed for lipidomics analysis using UHPLC-MSMS. All identified lipid species were exported into the excel file (.xls) in the data folder and used for downstream analysis, including differential expression and pathway enrichment. 
+
+# Data
+## All identified lipid species were exported into an Excel file (.xls) located in the data folder. This data serves as the basis for downstream analyses, including differential expression and pathway enrichment studies.
+
+# Analysis Scripts
+## The repository includes R scripts for lipidomic analysis, facilitating the processing and interpretation of the data. The three steps in analysis include data processing, EdgeR analysis, and data visualization.
+
+
 # 1 Data Processing
 
 # This code accomplishes 3 things
